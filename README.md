@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sadini Navodya</h1>
-<h3 align="center">BSc (Hons) Computer Science | Full Stack Developer</h3>
+<h3 align="center">BSc (Hons) Computer Science </h3>
 
 <p align="center">🎓 Computer Science Undergraduate 💻 Passionate about building software, learning new technologies, and solving real-world problems — 🚀 aspiring full-stack developer.</p>
 
