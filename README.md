@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sadini Navodya</h1>
 <h3 align="center">BSc (Hons) Computer Science | Full Stack Developer</h3>
+🎓 Software Engineering Undergraduate
+💻 Passionate about building software, learning new technologies, and solving real-world problems — 🚀 aspiring full-stack developer.
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Web+Developer;Mobile+App+Developer;Always+Learning+New+Things" />
