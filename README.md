@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sadini Navodya</h1>
-<h3 align="center">Software Engineering Undergraduate | Full Stack Developer</h3>
+<h3 align="center">BSc (Hons) Computer Science | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;Mobile+App+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Web+Developer;Mobile+App+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Software Engineering Undergraduate
+- 🎓 BSc (Hons) Computer Science at the University of Plymouth (NSBM)
 - 💻 Passionate about Web & Mobile Development
-- 🌱 Currently learning MERN Stack & Machine Learning
-- ⚡ Love building real-world software projects
+- 🌱 Currently working on MERN Stack & Full Stack Projects
+- ⚡ Building real-world software applications
 - 📍 Sri Lanka
 
 ---
@@ -25,7 +25,23 @@
 
 ---
 
-## 📊 GitHub Stats
+## � Featured Projects
+
+<p align="center">
+
+<a href="https://github.com/msnavodya/Flora-web">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=msnavodya&repo=Flora-web&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/msnavodya/Florana-FYP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=msnavodya&repo=Florana-FYP&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+## �📊 GitHub Stats
 
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=msnavodya&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -57,6 +73,10 @@
 
 <a href="https://github.com/msnavodya">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sadini-navodya-0305362ab">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
