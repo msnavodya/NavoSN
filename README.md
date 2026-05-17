@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sadini Navodya</h1>
 <h3 align="center">BSc (Hons) Computer Science </h3>
-🎓 Software Engineering Undergraduate
+🎓 Computer Science Undergraduate
 💻 Passionate about building software, learning new technologies, and solving real-world problems — 🚀 aspiring full-stack developer.
 
 <p align="center">
