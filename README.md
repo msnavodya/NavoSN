@@ -7,18 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Computer+Science+Student;Web+Developer;Mobile+App+Developer;Always+Learning+New+Things" />
 </p>
 
----
-
-## 🚀 About Me
-
-- 🎓 BSc (Hons) Computer Science at the University of Plymouth (NSBM)
-- 💻 Passionate about Web & Mobile Development
-- 🌱 Currently working on MERN Stack & Full Stack Projects
-- ⚡ Building real-world software applications
-- 📍 Sri Lanka
-
----
-
 ## 🛠️ Languages and Tools
 
 <p align="center">
